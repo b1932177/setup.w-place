@@ -1734,6 +1734,10 @@
     0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
     Successfully installed "Oracle VM VirtualBox Extension Pack".
     ``` 
+    ![Соглашение](https://github.com/b1932177/setup.w-place/blob/main/Соглашение.png?raw=true)
+
+    ![Подтверждение](https://github.com/b1932177/setup.w-place/blob/main/Подтверждение.png?raw=true)
+
     >(Во время установки принял лицензионное соглашение)
     h. Установка Hashicorp Vagrant
     - Добавляем GPG-ключ репозитория: 
@@ -2695,4 +2699,6 @@
     * [new branch]      main -> main
     branch 'main' set up to track 'origin/main'.
     ```
+    ![Отправка прошла успешно.](https://github.com/b1932177/setup.w-place/blob/main/git_test_vm.png?raw=true)
+    
     >Отправка прошла успешно.
